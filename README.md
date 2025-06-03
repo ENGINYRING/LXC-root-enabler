@@ -1,6 +1,6 @@
 [![ENGINYRING](https://cdn.enginyring.com/img/logo_dark.png)](https://www.enginyring.com)
 
-# LXC Template SSH Enabler
+# LXC Template SSH root Login Enabler
 
 This script automates the process of modifying Proxmox LXC container templates stored in `/var/lib/vz/template/cache`. It ensures that each template has SSH installed and configured to allow root login and password authentication.
 
